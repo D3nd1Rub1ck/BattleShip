@@ -1,1 +1,1 @@
-"# BattleShip" 
+Here is Simple CLI Battleship game on C++
